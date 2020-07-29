@@ -1,5 +1,5 @@
 import React from "react";
-import VideoIframeResponsive from "./components/VideoIframeResponsive";
+import VideoIframeResponsive from "./components/VideoIframeResponsive/index";
 import {
   BannerMainContainer,
   ContentAreaContainer,
